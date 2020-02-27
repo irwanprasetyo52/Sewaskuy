@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "185041918242",
+    "firebase_url": "https://sewaskuy-40447.firebaseio.com",
+    "project_id": "sewaskuy-40447",
+    "storage_bucket": "sewaskuy-40447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185041918242:android:c36fbcfe524f352c69ad7b",
+        "android_client_info": {
+          "package_name": "com.gmail.sewaskuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185041918242-1pccdsnuvu1b3uet8r9660j6ch3u1hmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Oc_IdeD-lnfitdsCAMx4ZCCBHm6APns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185041918242-1pccdsnuvu1b3uet8r9660j6ch3u1hmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
